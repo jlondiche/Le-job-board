@@ -32,7 +32,7 @@ https://www.novalend.com/
 
 ---
 
-# **Développeur·se Full Stack Senior / Lead Tech**
+# **Développeur·euse Full Stack Senior / Lead Tech**
 
 NovaLend Tech Solutions recherche un(e) développeur·se Full Stack très expérimenté·e, capable d’intervenir sur une plateforme Symfony complexe en production et de prendre un véritable rôle de lead technique en collaboration avec le Responsable Technique.
 
