@@ -14,7 +14,7 @@ https://www.homeexchange.fr/
 **Facts & Figures :**
 
 * Créée en 2011 
-* Présent dans 155 pays🚀
+* Présent dans +155 pays🚀
 * Plus de 200 000 membres au sein de la communauté
 * Plus de 32% de membres en 1 an (fin aout 2025)
 * Plus de 130 collaborateurs répartis entre Paris, Cambridge et Massachusetts
@@ -22,35 +22,43 @@ https://www.homeexchange.fr/
 
 **Stack**
 
-Stack technique :
-PHP 8, Symfony 7 => Refonte en cours vers du Node.js, TypeScript
+Node.js, PHP, Elasticsearch, Nest JS, Kafka, MySQL
+SASS, Webpack, React JS, Redux.js, TypeScript, Next.js
+WS
+Docker, AWS CloudFormation, Bitbucket, Amazon S3, Amazon API Gateway, Lambda, DynamoDB, RDS, Cloudfront, SQQ, SNS, Hive, EC2, VPC, Gitlab. 
 
 
-# **Sénior Backend expérimenté·e**  
+
+# **Développeur·se Front-End JS expérimenté·e**  
   
-HomeExchange recherche un·e **développeur backend expérimenté·e**. Tu participeras au développement de nouvelles fonctionnalité, à l'amélioration continue de la plateforme et aux migrations technologiques. Tu travailleras dans **dans un environnement international et stimulant**, avec une équipe tech engagée de 7 personnes. 
+HomeExchange recherche un·e développeur·se Front-End expérimenté·e pour rejoindre son équipe Tech et participer à l’évolution d’une plateforme utilisée par des milliers de voyageurs à travers le monde.
+
+Tu contribueras au développement de nouvelles fonctionnalités, à l’amélioration continue de l’expérience utilisateur et à la modernisation de l’architecture front-end dans un contexte de croissance et de transformation technologique.
 
 
 ## Missions 
 
-- Participer au développement de nouvelles fonctionnalités, de la phase de discovery jusqu'au delievery, en passant par le design technique et fonctionnel 
-- Contribuer à l'amélioration continue de notre plateforme, avec une forte attention portée sur la performance, la qualité et l'expérience utilisateur·rice 
-- Etre un·e acretur·rice clé de leur migration technologique : refonte de l'architecture, modernisation des outils, choix techniques structurants 
-- Collaborer avec les autres équipes pour garantir la cohérence, la qualité et l'évolutivité de leurs solutions 
+- Participer au développement de nouvelles fonctionnalités front-end, de la phase de discovery jusqu’au delivery, en collaboration avec les équipes produit, design et backend.
+- Concevoir et développer des interfaces performantes, accessibles et pensées pour une expérience utilisateur fluide.
+- Contribuer à l’amélioration continue de la plateforme : qualité du code, performance, maintenabilité et expérience utilisateur·rice.
+- Participer aux évolutions de l’architecture front-end et aux choix techniques structurants.
+- Être acteur·rice de la modernisation des outils et pratiques de développement front.
+- Collaborer avec les autres équipes techniques afin de garantir la cohérence, la qualité et l’évolutivité des solutions développées.
+- Participer au partage de connaissances et à la montée en compétences collective de l’équipe.
 
 ## Profil recherché  
 
-- 5 à 7 ans d’expérience minimum en développement logiciel, avec une solide culture technique, 
-- A l'aise sur l'ensemble du cycle de développement : conception, implémentation, test, déploiement, monitoring
-- Expérience dans des environnements dynamiques et exigeants, ou une forte envie de progresser rapidement et de jouer un rôle moteur dans une équipe ambitieuse 
-- Bonne maitrise de TypeScript / Node.js et de leurs écosystèmes. 
-- Bonne maîtrise de **TypeScript / Node.js** et de leurs écosystèmes,
-- Des connaissances en **Symfony / PHP** constituent un plus pour interagir avec le code legacy,
-- Capacité à challenger les choix techniques, structurer des projets complexes, communiquer et partager ses savoirs,
-- Curiosité, esprit d’initiative, rigueur, sens du collectif,
+- 5 à 7 ans d’expérience minimum en développement Front-End, avec une solide culture technique.
+- Très bonne maîtrise de React.js et TypeScript.
+- Expérience significative avec les environnements modernes Front-End : Next.js, Redux.js, Sass, Webpack.
+- Bonne compréhension des problématiques d’architecture Front-End, de performance et de qualité logicielle.
+- À l’aise sur l’ensemble du cycle de développement : conception, implémentation, tests, déploiement et suivi en production.
+- Capacité à challenger les choix techniques, structurer des projets complexes et proposer des améliorations.
+- Sensibilité produit et intérêt pour l’expérience utilisateur.
+- Curiosité, esprit d’initiative, rigueur et goût du travail en équipe.
 - Bon niveau d’anglais requis (équipe et environnement internationaux).
 
-## Pourquoi nous rejoindre  
+## Pourquoi les rejoindre  
 
 **Rejoindre HomeExchange, c’est rejoindre un projet avec du sens dans le monde du voyage et de l'économie collaborative.**
 
@@ -76,7 +84,7 @@ Vous avez :
 
 ## Salaire
 
-Fourchette : 65-75K€. 
+Fourchette : 65-70K€. 
 
 Pour rappel : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 

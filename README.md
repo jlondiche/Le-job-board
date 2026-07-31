@@ -24,16 +24,16 @@ Full remote = 🏠
 - [CAMPING CAR PARK](CAMPING_CAR_PARK.md)
 	- Tech lead PHP/Symfony  [POURVU]
 - [ENTREPRENDRE L'AVENIR](ENTREPRENDRE_LAVENIR.md)
-	- **Développeur backend PHP / Symfony senior**
+	- Développeur backend PHP / Symfony senior
 - [HOME EXCHANGE](HOME_EXCHANGE.md)
-	- Sénior Backend expérimenté·e TypeScript / NodeJS
+	- **Développeur·se Front-End JS expérimenté·e** [NEW]
 - [MEEKO](MEEKO.md)
-	- **Senior Développeur•se back-end PHP** [NEW] 🏠
+	- Senior Développeur•se back-end PHP 🏠
 - [MOBILITY WORK](MOBILITY_WORK.md)
 	- Développeur·se Backend Expert·e – IA-first & Architecture 🏠
 	- AI PRODUCT MANAGER
 - [NOVALEND](NOVALEND.md)
-	- **Développeur·euse fullstack SENIOR JS/PHP**
+	- Développeur·euse fullstack SENIOR JS/PHP
 - [SEZANE](SEZANE.md)
 	- Développeur·euse backend senior PHP / Symfony
 - [VASCO](VASCO.md)
@@ -47,5 +47,5 @@ Full remote = 🏠
 ## Lyon : 
 
 - [OPERA ENERGIE](OPERA_ENERGIE.md)
-	- **IT manager, RSI** [NEW]
+	- IT manager, RSI
 
