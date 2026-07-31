@@ -38,7 +38,7 @@ https://bfan-xp.com
 
 ---
 
-# **Senior Full-stack Developer Python / Reactjs - AI**
+# Senior Full-stack Developer Python / Reactjs - AI - POURVU
 
 bfan recherche un(e) Senior Full-stack Developer expérimenté(e) afin de consolider son socle technique et accompagner sa forte croissance.  
 
