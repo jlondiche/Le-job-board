@@ -3,7 +3,7 @@
 
 **Domaine:** Oneytrust est la FinTech française de lutte contre la fraude et experte de la validation de l’identité digitale.
 
-**Où:** Croix - 2 jours de remote par semaine. 
+**Où:** Croix - 2 jours de télétravail par semaine. 
 
 **Quoi:** Née en 2018 de la fusion de deux acteurs français et filiale à 100 % de Oney Bank, Oneytrust développe un ensemble de solutions innovantes afin de fluidifier et sécuriser l’expérience client.
 
