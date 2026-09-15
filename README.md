@@ -39,10 +39,10 @@ Full remote = 🏠
 
 # Missions :
 
-*Ingénieur développeur Fullstack PHP / Symfony & IA*
+- **Ingénieur développeur Fullstack PHP / Symfony & IA**
 	- mission de 3 mois
 	- présentiel à 100% obligatoire dans Paris centre
 	- expériences requises : diplôme d'ingénieur, expérience Ecommerce, minimum 5 ans d'expérience
-=> Nous contacter uniquement si vous valider les expériences requises.
+=> **Nous contacter uniquement si vous valider les expériences requises svp.**
 
 A très vite ! 
