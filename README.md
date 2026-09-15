@@ -28,6 +28,7 @@ Full remote = 🏠
 	- AI PRODUCT MANAGER
 - [SEZANE](SEZANE.md)
 	- Développeur·euse backend senior PHP / Symfony
+	- Développeur mobile iOS - SWIFT
 - [VASCO](VASCO.md)
 	- Product Owner - confirmé·e
 
