@@ -19,21 +19,13 @@ Full remote = 🏠
 
 ## Paris : 
 
-- [BFAN](BFAN.md)
-	- Senior Full-stack Developer Python / Reactjs - AI [POURVU]
-- [CAMPING CAR PARK](CAMPING_CAR_PARK.md)
-	- Tech lead PHP/Symfony  [POURVU]
-- [ENTREPRENDRE L'AVENIR](ENTREPRENDRE_LAVENIR.md)
-	- Développeur backend PHP / Symfony senior
+- [ERES](ERES.md)
+	- Software Craftership PHP / Symfony & IA 
 - [HOME EXCHANGE](HOME_EXCHANGE.md)
 	- **Développeur·se Front-End JS expérimenté·e** [NEW]
-- [MEEKO](MEEKO.md)
-	- Senior Développeur•se back-end PHP 🏠
 - [MOBILITY WORK](MOBILITY_WORK.md)
 	- Développeur·se Backend Expert·e – IA-first & Architecture 🏠
 	- AI PRODUCT MANAGER
-- [NOVALEND](NOVALEND.md)
-	- Développeur·euse fullstack SENIOR JS/PHP
 - [SEZANE](SEZANE.md)
 	- Développeur·euse backend senior PHP / Symfony
 - [VASCO](VASCO.md)
