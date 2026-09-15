@@ -14,7 +14,7 @@ Développeuses, développeurs, voici toutes les opportunités du moment. Vous no
 **Avec un seul envoi de CV, vous avez accès à toutes mes offres et donc un contact direct/privilégié avec les sociétés listées ci-dessous, et bien plus encore. _Faites-moi confiance_ et gagnez un temps fou.**
 
 
-## Les offres classées par ville.
+## Les offres classées par ville pour les job en CDI.
 Full remote = 🏠
 
 ## Paris : 
@@ -37,7 +37,7 @@ Full remote = 🏠
 - [ONEYTRUST](ONEYTRUST.md)
 	- **DevOps confirmé·e - Azure, K8S**[NEW]
 
-# Missions :
+## Opportunité en Freelance / Missions :
 
 - **Ingénieur développeur Fullstack PHP / Symfony & IA**
 	- mission de 3 mois
