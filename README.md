@@ -37,8 +37,12 @@ Full remote = 🏠
 - [ONEYTRUST](ONEYTRUST.md)
 	- **DevOps confirmé·e - Azure, K8S**[NEW]
 
-## Lyon : 
+# Missions :
 
-- [OPERA ENERGIE](OPERA_ENERGIE.md)
-	- IT manager, RSI
+*Ingénieur développeur Fullstack PHP / Symfony & IA*
+	- mission de 3 mois
+	- présentiel à 100% obligatoire dans Paris centre
+	- expériences requises : diplôme d'ingénieur, expérience Ecommerce, minimum 5 ans d'expérience
+=> Nous contacter uniquement si vous valider les expériences requises.
 
+A très vite ! 
