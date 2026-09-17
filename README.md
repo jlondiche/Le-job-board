@@ -42,7 +42,12 @@ Full remote = 🏠
 ## Lille :
 
 - [ONEYTRUST](ONEYTRUST.md)
-	- **DevOps confirmé·e - Azure, K8S**[NEW]
+	- DevOps confirmé·e - Azure, K8S
+- [SWEEEK](SWEEEK.md)
+	- **Développeur·euse sénior·e Symfony** NEW
+	- **Administrateur·rice Système** NEW
+
+
 
 ## Lyon : 
 
