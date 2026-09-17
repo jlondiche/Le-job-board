@@ -13,11 +13,9 @@ La plateforme est entièrement développée en interne et porte des enjeux impor
 
 **Facts & Figures**
 
-* Création en 2023  
-* 19 personnes aujourd'hui dans l'entreprise dont 12 dans l'équipe technique + produit  
-* 4 000 sociétés de capital-risque qui opèrent près de 12 000 fonds en Europe  
-* Gestion de plus de 24 milliards d’euros d’actifs  
-* Déploiement international prévu courant 2026
+* Création en 2009, initialement sous la marque Alice’s Garden, devenue sweeek en 2023.
+* Présence e-commerce européenne depuis 2015, avec des lancements successifs en Espagne, Royaume-Uni, Italie, Allemagne puis Pologne.
+* 5 points de vente / showrooms en France aujourd’hui, dont une nouvelle implantation en région parisienne ouverte en 2026.
 
 **Stack**
 
