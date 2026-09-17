@@ -22,7 +22,7 @@ Full remote = 🏠
 - [ERES](ERES.md)
 	- Software Craftership PHP / Symfony & IA 
 - [HOME EXCHANGE](HOME_EXCHANGE.md)
-	- **Développeur·se Front-End JS expérimenté·e** [NEW]
+	- Développeur·se Front-End JS expérimenté·e
 - [MOBILITY WORK](MOBILITY_WORK.md)
 	- Développeur·se Backend Expert·e – IA-first & Architecture 🏠
 	- AI PRODUCT MANAGER
@@ -33,6 +33,9 @@ Full remote = 🏠
 	- Product Owner - confirmé·e
 
 ## Lille :
+
+- [EXOTEC](EXOTEC.md)
+	-**Software factory manager** NEW
 
 - [ONEYTRUST](ONEYTRUST.md)
 	- DevOps confirmé·e - Azure, K8S
