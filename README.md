@@ -14,28 +14,21 @@ Développeuses, développeurs, voici toutes les opportunités du moment. Vous no
 **Avec un seul envoi de CV, vous avez accès à toutes mes offres et donc un contact direct/privilégié avec les sociétés listées ci-dessous, et bien plus encore. _Faites-moi confiance_ et gagnez un temps fou.**
 
 
-## Les offres classées par ville.
+## Les offres classées par ville pour les job en CDI.
 Full remote = 🏠
 
 ## Paris : 
 
-- [BFAN](BFAN.md)
-	- Senior Full-stack Developer Python / Reactjs - AI [POURVU]
-- [CAMPING CAR PARK](CAMPING_CAR_PARK.md)
-	- Tech lead PHP/Symfony  [POURVU]
-- [ENTREPRENDRE L'AVENIR](ENTREPRENDRE_LAVENIR.md)
-	- Développeur backend PHP / Symfony senior
+- [ERES](ERES.md)
+	- Software Craftership PHP / Symfony & IA 
 - [HOME EXCHANGE](HOME_EXCHANGE.md)
 	- **Développeur·se Front-End JS expérimenté·e** [NEW]
-- [MEEKO](MEEKO.md)
-	- Senior Développeur•se back-end PHP 🏠
 - [MOBILITY WORK](MOBILITY_WORK.md)
 	- Développeur·se Backend Expert·e – IA-first & Architecture 🏠
 	- AI PRODUCT MANAGER
-- [NOVALEND](NOVALEND.md)
-	- Développeur·euse fullstack SENIOR JS/PHP
 - [SEZANE](SEZANE.md)
 	- Développeur·euse backend senior PHP / Symfony
+	- Développeur mobile iOS - SWIFT
 - [VASCO](VASCO.md)
 	- Product Owner - confirmé·e
 
@@ -49,8 +42,12 @@ Full remote = 🏠
 
 
 
-## Lyon : 
+## Opportunité en Freelance / Missions :
 
-- [OPERA ENERGIE](OPERA_ENERGIE.md)
-	- IT manager, RSI
+- **Ingénieur développeur Fullstack PHP / Symfony & IA**
+	- mission de 3 mois
+	- présentiel à 100% obligatoire dans Paris centre
+	- expériences requises : diplôme d'ingénieur, expérience Ecommerce, minimum 5 ans d'expérience
+=> **Nous contacter uniquement si vous valider les expériences requises svp.**
 
+A très vite ! 
