@@ -34,9 +34,6 @@ Full remote = 🏠
 
 ## Lille :
 
-- [EXOTEC](EXOTEC.md)
-	-**Software factory manager** NEW
-
 - [ONEYTRUST](ONEYTRUST.md)
 	- DevOps confirmé·e - Azure, K8S
 - [SWEEEK](SWEEEK.md)
