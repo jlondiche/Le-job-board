@@ -79,7 +79,7 @@ En plus de l’environnement technique challengeant, rejoindre ERES c’est prof
 * OS au choix : Mac ou Linux
 * Double écrans
 * Des bureaux neufs et très bien équipés dans le centre de Paris (métro Bourse).
-* 3 jours de TT / semaine (nous essayons tout de même de nous retrouver certains jours pour des rituels collectifs)
+* 2 jours de TT / semaine (nous essayons tout de même de nous retrouver certains jours pour des rituels collectifs)
 * Le CTO et le VP Engineering sont cools
 * Des projets et des clients à gogo.
 * Une vraie bienveillance au sein d'une entreprise rentable et en pleine croissance.
