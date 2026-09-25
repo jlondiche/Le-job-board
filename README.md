@@ -34,6 +34,8 @@ Full remote = 🏠
 
 ## Lille :
 
+- [KARAFUN](KARAFUN.md)
+	- **Sénior Data Engineer** NEW
 - [ONEYTRUST](ONEYTRUST.md)
 	- DevOps confirmé·e - Azure, K8S
 - [SWEEEK](SWEEEK.md)
