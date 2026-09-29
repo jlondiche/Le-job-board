@@ -49,7 +49,7 @@ Vous rejoindrez l'équipe technique et travaillerez au quotidien avec les dével
 
 ## Salaire 
 
-Rémunération : 45/48K€ selon profil. 
+Selon profil
 
 *Pour rappel : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez. L'entreprise est prête à payer votre expérience à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.*
 
@@ -129,7 +129,7 @@ Documenter les architectures, procédures et bonnes pratiques
 
 ## Salaire 
 
-Rémunération : 45/50K€ selon profil. 
+Selon profil
 
 *Pour rappel : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez. L'entreprise est prête à payer votre expérience à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.*
 
