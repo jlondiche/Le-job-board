@@ -32,6 +32,11 @@ Full remote = 🏠
 - [VASCO](VASCO.md)
 	- Product Owner - confirmé·e
 
+
+## Lyon : 
+- [OPERA ENERGIE](OPERA_ENERGIE.md)
+	- Responsable Data / Data Manager H/F
+
 ## Lille :
 
 - [KARAFUN](KARAFUN.md)
