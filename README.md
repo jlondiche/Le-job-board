@@ -23,14 +23,9 @@ Full remote = 🏠
 	- Software Craftership PHP / Symfony & IA 
 - [HOME EXCHANGE](HOME_EXCHANGE.md)
 	- Développeur·se Front-End JS expérimenté·e
-- [MOBILITY WORK](MOBILITY_WORK.md)
-	- Développeur·se Backend Expert·e – IA-first & Architecture 🏠
-	- AI PRODUCT MANAGER
 - [SEZANE](SEZANE.md)
 	- Développeur·euse backend senior PHP / Symfony
 	- Développeur mobile iOS - SWIFT
-- [VASCO](VASCO.md)
-	- Product Owner - confirmé·e
 
 
 ## Lyon : 
@@ -42,7 +37,7 @@ Full remote = 🏠
 - [KARAFUN](KARAFUN.md)
 	- **Sénior Data Engineer** NEW
 - [ONEYTRUST](ONEYTRUST.md)
-	- DevOps confirmé·e - Azure, K8S
+	- DevOps confirmé·e - Azure, K8S [POURVU] 
 - [SWEEEK](SWEEEK.md)
 	- **Développeur·euse sénior·e Symfony** NEW
 	- **Administrateur·rice Système** NEW
