@@ -14,14 +14,14 @@ Gemmyo recherche une 5ème personne full stack avec une réélle appétence pour
 
 ## Profil recherché : 
 
-* Entre 4 ou 5 ans d'expèrience minimum 
-* Bonne maîtrise de PHP et Symfony (idéalement plusieurs versions), de ReactJS 
+* Entre 4 ou 5 ans d'expèrience minimum
+* Bonne maîtrise de PHP et Symfony (idéalement plusieurs versions), de ReactJS
 * Solide connaissance des bases de données relationnelles (MySQL / PostgreSQL)
 * Expérience avec les API (API Platform)
 * Maîtrise de JavaScript (jQuery), HTML, CSS/SCSS (méthodologie BEM)
 * Connaissances de Git et Docker
 * Intérêt pour les bonnes pratiques de développement (SOLID, design patterns)
-* Profil adaptable, rigoureux et agile 
+* Profil adaptable, rigoureux et agile
 * Capacité à travailler en équipe et à communiquer avec des profils variés
 * Qui se projette sur du long terme 
 
