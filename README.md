@@ -21,6 +21,8 @@ Full remote = 🏠
 
 - [ERES](ERES.md)
 	- Software Craftership PHP / Symfony & IA 
+- [GEMMYO](GEMMYO.md)
+	- **Développeur·euse Full Stack PHP/JS** **NEW**
 - [HOME EXCHANGE](HOME_EXCHANGE.md)
 	- Développeur·se Front-End JS expérimenté·e
 - [SEZANE](SEZANE.md)
@@ -39,8 +41,7 @@ Full remote = 🏠
 - [ONEYTRUST](ONEYTRUST.md)
 	- DevOps confirmé·e - Azure, K8S [POURVU] 
 - [SWEEEK](SWEEEK.md)
-	- **Développeur·euse sénior·e Symfony** NEW
-	- **Administrateur·rice Système** NEW
+	- Développeur·euse sénior·e Symfony NEW
 
 
 
