@@ -25,6 +25,11 @@ Full remote = 🏠
 	- **Développeur·euse Full Stack PHP/JS** **NEW**
 - [HOME EXCHANGE](HOME_EXCHANGE.md)
 	- Développeur·se Front-End JS expérimenté·e
+- [SEZANE](SEZANE.md)
+	- Développeur·euse backend senior PHP / Symfony
+	- Développeur mobile iOS - SWIFT
+- [UBLO.IMMO](UBLO.IMMO.md)
+	- **Lead Backend Engineer — Python, FastAPI** **NEW**
 
 
 ## Lyon : 
