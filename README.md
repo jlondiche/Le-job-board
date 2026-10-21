@@ -28,6 +28,8 @@ Full remote = 🏠
 - [SEZANE](SEZANE.md)
 	- Développeur·euse backend senior PHP / Symfony
 	- Développeur mobile iOS - SWIFT
+- [UBLO.IMMO](UBLO.IMMO.md)
+	- **Lead Backend Engineer — Python, FastAPI** **NEW**
 
 
 ## Lyon : 
