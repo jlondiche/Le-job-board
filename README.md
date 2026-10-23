@@ -37,8 +37,6 @@ Full remote = 🏠
 
 - [KARAFUN](KARAFUN.md)
 	- **Sénior Data Engineer** NEW
-- [ONEYTRUST](ONEYTRUST.md)
-	- DevOps confirmé·e - Azure, K8S [POURVU] 
 - [SWEEEK](SWEEEK.md)
 	- Développeur·euse sénior·e Symfony NEW
 
