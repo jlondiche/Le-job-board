@@ -22,7 +22,7 @@ Full remote = 🏠
 - [ERES](ERES.md)
 	- Software Craftership PHP / Symfony & IA 
 - [GEMMYO](GEMMYO.md)
-	- **Développeur·euse Full Stack PHP/JS** **NEW**
+	- **Développeur fullstack PHP - Intégration front-end** **NEW**
 - [HOME EXCHANGE](HOME_EXCHANGE.md)
 	- Développeur·se Front-End JS expérimenté·e
 - [UBLO.IMMO](UBLO.IMMO.md)
