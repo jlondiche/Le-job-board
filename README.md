@@ -23,8 +23,6 @@ Full remote = 🏠
 	- Software Craftership PHP / Symfony & IA 
 - [GEMMYO](GEMMYO.md)
 	- **Développeur fullstack PHP - Intégration front-end** **NEW**
-- [HOME EXCHANGE](HOME_EXCHANGE.md)
-	- Développeur·se Front-End JS expérimenté·e
 - [UBLO.IMMO](UBLO.IMMO.md)
 	- **Lead Backend Engineer — Python, FastAPI** **NEW**
 
