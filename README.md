@@ -19,7 +19,7 @@ Full remote = 🏠
 
 ## Paris : 
 
-- [DAYUSE](Dayuse.md)
+- [DAYUSE](DAYUSE.md)
 	- **Senior AI-Engineer** **NEW**
 - [ERES](ERES.md)
 	- Software Craftership PHP / Symfony & IA 
