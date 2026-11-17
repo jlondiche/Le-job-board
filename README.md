@@ -19,10 +19,12 @@ Full remote = 🏠
 
 ## Paris : 
 
+- [DAYUSE](Dayuse.md)
+	- **Senior AI-Engineer** **NEW**
 - [ERES](ERES.md)
 	- Software Craftership PHP / Symfony & IA 
 - [GEMMYO](GEMMYO.md)
-	- **Développeur fullstack PHP - Intégration front-end** **NEW**
+	- Développeur fullstack PHP - Intégration front-end
 - [UBLO.IMMO](UBLO.IMMO.md)
 	- **Lead Backend Engineer — Python, FastAPI** **NEW**
 
