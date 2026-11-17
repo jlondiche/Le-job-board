@@ -41,7 +41,7 @@ Full remote = 🏠
 - **Développeur·se senior IA**
 - Mission de 3 mois, en présentiel à Paris.
 - 5 ans minimum en développement, avec une expérience solide en IA agentique : création de workflows ou d’outils basés sur des agents et mise en production de fonctionnalités utilisant des LLM.
-- Une maîtrise de PHP/Symfony et une expérience d’Elasticsearch sont également requises.
+- Une maîtrise de PHP/Symfony. 
 => **Nous contacter uniquement si vous valider les expériences requises svp.**
 
 A très vite ! 
