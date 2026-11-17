@@ -29,7 +29,7 @@ Architecture Event Driven / Domain Driven Design (DDD) / API / Traitements async
 
 ---
 
-# Lead Backend Engineer — Python, FastAPI
+# - POURVU - Lead Backend Engineer — Python, FastAPI 
 
 Le ou la Senior Backend Engineer rejoindra l'une des 4 squads et participera activement à la conception et à l'évolution de l'architecture backend de la plateforme.
 
