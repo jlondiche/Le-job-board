@@ -21,13 +21,10 @@ Full remote = 🏠
 
 - [DAYUSE](DAYUSE.md)
 	- **Senior AI-Engineer** **NEW**
-- [ERES](ERES.md)
-	- Software Craftership PHP / Symfony & IA 
 - [GEMMYO](GEMMYO.md)
 	- Développeur fullstack PHP - Intégration front-end
 - [UBLO.IMMO](UBLO.IMMO.md)
-	- **Lead Backend Engineer — Python, FastAPI** **NEW**
-
+	- Lead Backend Engineer — Python, FastAPI **POURVU**
 
 ## Lyon : 
 - [OPERA ENERGIE](OPERA_ENERGIE.md)
@@ -35,19 +32,16 @@ Full remote = 🏠
 
 ## Lille :
 
-- [KARAFUN](KARAFUN.md)
-	- **Sénior Data Engineer** NEW
 - [SWEEEK](SWEEEK.md)
-	- Développeur·euse sénior·e Symfony NEW
-
+	- Développeur·euse sénior·e Symfony 
 
 
 ## Opportunité en Freelance / Missions :
 
-- **Ingénieur développeur Fullstack PHP / Symfony & IA**
-	- mission de 3 mois
-	- présentiel à 100% obligatoire dans Paris centre
-	- expériences requises : diplôme d'ingénieur, expérience Ecommerce, minimum 5 ans d'expérience
+- **Développeur·se senior IA**
+- Mission de 3 mois, en présentiel à Paris.
+- 5 ans minimum en développement, avec une expérience solide en IA agentique : création de workflows ou d’outils basés sur des agents et mise en production de fonctionnalités utilisant des LLM.
+- Une maîtrise de PHP/Symfony et une expérience d’Elasticsearch sont également requises.
 => **Nous contacter uniquement si vous valider les expériences requises svp.**
 
 A très vite ! 
